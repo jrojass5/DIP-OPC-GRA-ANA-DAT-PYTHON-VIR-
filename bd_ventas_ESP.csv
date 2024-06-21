@@ -1,4 +1,4 @@
-﻿ID;Fecha_ Pedido;Cod_Tienda;id_producto;Qtde;Precio_Unitario
+﻿ID,Fecha_ Pedido,Cod_Tienda,id_producto,Qtde,Precio_Unitario
 AX144;15/01/2023;A1500111;1007;35;630,99
 AX4456;27/07/2023;A5200100;1007;33;630,99
 AX2320;03/08/2023;A1500108;1005;132;999
